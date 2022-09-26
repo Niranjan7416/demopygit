@@ -1,3 +1,4 @@
 a=7
 b=8
-print(a-b)
+c = a - b
+print(c)
